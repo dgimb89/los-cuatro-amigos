@@ -18,10 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_merging_domino","order":3,"path":"objects/obj_merging_domino/obj_merging_domino.yy",},
+    {"name":"Sprite3","order":7,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"Blocker","order":2,"path":"sprites/Blocker/Blocker.yy",},
     {"name":"spr_ground","order":4,"path":"sprites/spr_ground/spr_ground.yy",},
     {"name":"spr_ground_corner","order":3,"path":"sprites/spr_ground_corner/spr_ground_corner.yy",},
-    {"name":"Sprite6","order":5,"path":"sprites/Sprite6/Sprite6.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
     {"name":"obj_domino_spawner","order":1,"path":"objects/obj_domino_spawner/obj_domino_spawner.yy",},
