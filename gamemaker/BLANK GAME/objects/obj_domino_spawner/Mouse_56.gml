@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 0193E290
+/// @DnDHash : 49014947
 /// @DnDArgument : "xpos" "mouse_x"
 /// @DnDArgument : "ypos" "mouse_y"
 /// @DnDArgument : "objectid" "obj_regular_domino"

@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "obj_domino_spawner",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":56,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -24,13 +24,10 @@
   "physicsSensor": false,
   "physicsShape": 1,
   "physicsShapePoints": [],
-  "physicsStartAwake": true,
+  "physicsStartAwake": false,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": false,
 }

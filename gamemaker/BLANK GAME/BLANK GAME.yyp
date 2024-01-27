@@ -34,6 +34,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_regular_domino","path":"objects/obj_regular_domino/obj_regular_domino.yy",},},
     {"id":{"name":"Environment","path":"tilesets/Environment/Environment.yy",},},
     {"id":{"name":"Blocker","path":"sprites/Blocker/Blocker.yy",},},
