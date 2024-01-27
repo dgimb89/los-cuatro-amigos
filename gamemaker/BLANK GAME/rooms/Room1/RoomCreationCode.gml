@@ -11,3 +11,10 @@ instance_create_layer(0, 0, "Instances", obj_domino_spawner);
 /// @DnDArgument : "objectid" "obj_camera"
 /// @DnDSaveInfo : "objectid" "obj_camera"
 instance_create_layer(0, 0, "Instances", obj_camera);
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 28FF83C0
+/// @DnDArgument : "objectid" "obj_game_manager"
+/// @DnDSaveInfo : "objectid" "obj_game_manager"
+instance_create_layer(0, 0, "Instances", obj_game_manager);

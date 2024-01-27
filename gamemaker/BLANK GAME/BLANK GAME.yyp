@@ -34,9 +34,12 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"obj_push_hand","path":"objects/obj_push_hand/obj_push_hand.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_regular_domino","path":"objects/obj_regular_domino/obj_regular_domino.yy",},},
+    {"id":{"name":"Hand_inactive","path":"sprites/Hand_inactive/Hand_inactive.yy",},},
     {"id":{"name":"Environment","path":"tilesets/Environment/Environment.yy",},},
+    {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"obj_merging_domino","path":"objects/obj_merging_domino/obj_merging_domino.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Blocker","path":"sprites/Blocker/Blocker.yy",},},
