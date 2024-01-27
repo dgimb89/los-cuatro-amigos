@@ -26,6 +26,7 @@
     {"name":"Blocker","order":2,"path":"sprites/Blocker/Blocker.yy",},
     {"name":"spr_ground","order":4,"path":"sprites/spr_ground/spr_ground.yy",},
     {"name":"spr_ground_corner","order":3,"path":"sprites/spr_ground_corner/spr_ground_corner.yy",},
+    {"name":"Hand_active","order":9,"path":"sprites/Hand_active/Hand_active.yy",},
     {"name":"obj_ground","order":2,"path":"objects/obj_ground/obj_ground.yy",},
     {"name":"obj_domino_spawner","order":1,"path":"objects/obj_domino_spawner/obj_domino_spawner.yy",},
   ],
