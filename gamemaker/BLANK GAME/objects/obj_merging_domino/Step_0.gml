@@ -19,7 +19,7 @@ var _m_domino = collision_rectangle(
 if (_m_domino != noone && _m_domino.__state == INSTANCE_STATE.READY){
     with(_m_domino) __state = INSTANCE_STATE.MERGED;
     //image_xscale += 0.2;
-	_new_scale = ((_m_domino.image_yscale + image_yscale) / 2) * 1.5
+	var _new_scale = ((_m_domino.image_yscale + image_yscale) / 2) * 1.5
 	image_xscale = _new_scale
 	image_yscale = _new_scale
 }

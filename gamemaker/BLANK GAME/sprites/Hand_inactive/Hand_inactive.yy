@@ -14,7 +14,7 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"93f9ea9c-03d5-452e-bc98-f0f83071b558",},
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bdc6c3a2-d983-4027-b1d2-12116c5e847d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"405e9849-51b2-4a8f-952c-2c51faf3bc03",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -24,7 +24,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0831d83d-d78a-4b0f-be85-27365cd5ee57","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 9,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
@@ -56,13 +56,13 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"93f9ea9c-03d5-452e-bc98-f0f83071b558","path":"sprites/Hand_inactive/Hand_inactive.yy",},},},"Disabled":false,"id":"18360684-0f53-4c08-8302-532a320cb30a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bdc6c3a2-d983-4027-b1d2-12116c5e847d","path":"sprites/Hand_inactive/Hand_inactive.yy",},},},"Disabled":false,"id":"2c025243-2f56-40ad-b2c8-66b0d7c167e9","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"405e9849-51b2-4a8f-952c-2c51faf3bc03","path":"sprites/Hand_inactive/Hand_inactive.yy",},},},"Disabled":false,"id":"6c8ea48f-0e6b-43e1-ba4f-064bad3ace51","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 32,
-    "yorigin": 32,
+    "xorigin": 53,
+    "yorigin": 24,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,
