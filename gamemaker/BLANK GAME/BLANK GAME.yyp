@@ -44,7 +44,6 @@
     {"id":{"name":"spr_ground_corner","path":"sprites/spr_ground_corner/spr_ground_corner.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
-    {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},},
     {"id":{"name":"obj_domino_spawner","path":"objects/obj_domino_spawner/obj_domino_spawner.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
